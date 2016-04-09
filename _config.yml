@@ -1,0 +1,28 @@
+name: VanPelt
+favicon: null
+layout_spectrum: 0.517434204230085
+typography_spectrum: 0.44912693463265896
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.6306001762859523
+  lightness: 0.8411225962918252
+  saturation: 0.39091940806247294
+  rhythmicContrast: 0.4273593749385327
+purpose: []
